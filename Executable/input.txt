@@ -1,0 +1,16 @@
+lazyProcess 0
+fastProcess 1
+deadProcess 2
+quickProcess 3
+slowProcess 2
+fireProcess 1
+gameProcess 0
+songProcess 1
+systProcess 3
+longProcess 0
+evilProcess 0
+doomProcess 0
+hateProcess 0
+goodProcess 1
+lifeProcess 1
+freeProcess 2
